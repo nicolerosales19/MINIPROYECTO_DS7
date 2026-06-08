@@ -1,4 +1,4 @@
-# 📑 MINI PROYECTO #2: RESOLVIENDO PROBLEMAS CON ESTRUCTURAS DE DECISIÓN Y REPETICIÓN EN PHP
+# MINI PROYECTO: SENTENCIAS DE CONTROL Y CLASES
 
 Este repositorio contiene el código fuente y la arquitectura de software desarrollada para la resolución del Mini Proyecto de la asignatura **Desarrollo de Software VII**. La aplicación ha sido estructurada bajo un patrón de diseño desacoplado (Modelo-Vista-Controlador de un solo punto de entrada) implementando directrices modernas de desarrollo seguro.
 
